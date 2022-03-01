@@ -13,6 +13,7 @@
 
 ⚡️ Curiosidades: Sou cristão, nerd declarado e amante de ficção científica. Meus filmes favoritos são a Triologia De Volta Para o Futuro e a Triologia do Homem-aranha (Sam Raimi).
 
+## 🛠 Habilidades
 <div style="display: inline-block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -21,6 +22,7 @@
 
 <br />
 
+## 🔗 Links
 <div> 
     <a href="https://instagram.com/matheusqueirozds.dev" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -32,8 +34,8 @@
 
 ---
 
-### 💻 Projetos mais recentes
+## 💻 Projetos mais recentes
 
 - [Site Responsivo Android](https://github.com/matheusqueirozds/site-responsivo-android)
 
-➡️ [mais projetos...](https://www.youtube.com/c/InkasaDev/playlists)
+➡️ [mais projetos...](https://matheusqueirozds.vercel.app/)
