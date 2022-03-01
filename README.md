@@ -1,4 +1,4 @@
-## Olá, eu sou um Desenvolvedor Front-end e UI/UX Designer.
+## Desenvolvedor Front-end e UI/UX Designer.
 
 
 ### 🚀 Sobre mim
