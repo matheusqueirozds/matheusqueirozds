@@ -1,10 +1,5 @@
-# matheusqueirozds
-
-### Olá, eu sou o Matheus Queiroz 👋🏾
-
-## Frontend Developer e UI/UX Designer
-
-## 🚀 Sobre mim
+### Olá, eu sou o Matheus Queiroz. Front-end Developer e UI/UX Designer.
+### 🚀 Sobre mim
 👩‍💻 Me desafio diariamente, desenvolvendo novos projetos
 
 🧠 Atualmente estudo HTML, CSS, JavaScript e UI/UX Design
@@ -13,7 +8,13 @@
 
 ⚡️ Curiosidades: Sou cristão, nerd declarado e amante de ficção científica. Meus filmes favoritos são a Triologia De Volta Para o Futuro e a Triologia do Homem-aranha (Sam Raimi).
 
-## 🛠 Habilidades
+<div align="center">
+  <a href="https://github.com/matheusqueirozds">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusqueirozds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusqueirozds&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+### 🛠 Habilidades
 <div style="display: inline-block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -22,7 +23,7 @@
 
 <br />
 
-## 🔗 Links
+### 🔗 Links
 <div> 
     <a href="https://instagram.com/matheusqueirozds.dev" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -34,8 +35,10 @@
 
 ---
 
-## 💻 Projetos mais recentes
+### 💻 Projetos mais recentes
 
 - [Site Responsivo Android](https://github.com/matheusqueirozds/site-responsivo-android)
 
 ➡️ [mais projetos...](https://matheusqueirozds.vercel.app/)
+
+
