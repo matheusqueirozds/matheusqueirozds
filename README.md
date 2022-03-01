@@ -4,9 +4,13 @@
 
 ## Frontend Developer e UI/UX Designer
 
+## 🚀 Sobre mim
 👩‍💻 Me desafio diariamente, desenvolvendo novos projetos
+
 🧠 Atualmente estudo HTML, CSS, JavaScript e UI/UX Design
+
 🥅 Metas para 2022: Dominar HTML5, CSS3 e JavaScript; Aprender algum framework; Criar, no mínimo, 6 projetos
+
 ⚡️ Curiosidades: Sou cristão, nerd declarado e amante de ficção científica. Meus filmes favoritos são a Triologia De Volta Para o Futuro e a Triologia do Homem-aranha (Sam Raimi).
 
 <div style="display: inline-block"><br>
@@ -28,7 +32,7 @@
 
 ---
 
-### 📺 Projetos mais recentes
+### 💻 Projetos mais recentes
 
 - [Site Responsivo Android](https://github.com/matheusqueirozds/site-responsivo-android)
 
