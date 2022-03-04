@@ -42,6 +42,7 @@
 ### 💻 Projetos mais recentes
 
 - [Site Responsivo Android](https://github.com/matheusqueirozds/site-responsivo-android)
+- [Desafio Cordel](https://github.com/matheusqueirozds/desafio-cordel)
 
 ➡️ [Todos os projetos...](https://github.com/matheusqueirozds?tab=repositories)
 
