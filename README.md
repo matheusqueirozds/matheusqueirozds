@@ -1,11 +1,11 @@
 # Desenvolvedor Front-end e UI Designer
 
-## 🤓 Sobre mim
+## 🤓 SOBRE MIM
 🔍 Atualmente estudo **`HTML`**, **`CSS`**, **`JavaScript`** e **`UI Design`**
 
 ⚡ Sou cristão, nerd declarado e amante de ficção científica. Meus filmes favoritos são a *Triologia De Volta Para o Futuro* e a *Triologia do Homem-aranha (Sam Raimi)*
 
-📈 Metas para 2022 
+📈 METAS PARA 2022 
   * Criar no mínimo 6 projetos: 
   
     * [x]  🤖 Site Responsivo Android - [*Acesse aqui*](https://github.com/matheusqueirozds/site-responsivo-android)
@@ -24,7 +24,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusqueirozds@gmail.com)
 ---
 ---
-## 🛠 Tecnologias e Ferramentas
+## 🛠 TECNOLOGIAS E FERRAMENTAS
 ### 🔠 Programação
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +38,15 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ---
 ---
-## 📚 Cursos Realizados
+## 📚 CURSOS 
+### Em andamento
+Curso | Instituição | Carga horária | Conclusão
+-|:-:|:-:|-
+  Web Full Stack | Labenu | 12 meses | 04/2023
+ 
+#
+
+### Concluídos
   Curso | Instituição | Carga horária | Certificado
   -|:-:|:--:|-
   UI Design para iniciantes | Origamid | 34 horas | [Acesse aqui](https://drive.google.com/file/d/1_IqY6FIqnL0g_2QMijRrFPlhlfQ6f5sK/view?usp=sharing)
@@ -46,12 +54,10 @@
   Computação Gráfica | Saga | 36 meses | [Acesse aqui](https://drive.google.com/file/d/1fcDaHT4RIssUp5yRAr_3mIbEna9qKPTD/view?usp=sharing)
   
 ---
----
-## 📊 Estatísticas
 
+## 📊 Estatísticas
   <a href="https://github.com/matheusqueirozds">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusqueirozds&layout=compact&langs_count=7&theme=dark"/>
-
 
   <a href="https://github.com/matheusqueirozds">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=matheusqueirozds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
