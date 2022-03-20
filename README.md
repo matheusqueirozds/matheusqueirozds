@@ -8,7 +8,7 @@
 📈 METAS PARA 2022 
   * Criar no mínimo 6 projetos: 
   
-    * [x]  🤖 Site Responsivo Android - [*Acesse aqui*](https://github.com/matheusqueirozds/site-responsivo-android)
+    * [x]  🤖 Site Responsivo Android - <a href="https://github.com/matheusqueirozds/site-responsivo-android" target="_blank">Acesse aqui</a>
     * [x]  🎵 Desafio Cordel - [*Acesse aqui*](https://github.com/matheusqueirozds/desafio-cordel)
     * [x]  ☀ Bio - [*Acesse aqui*](https://github.com/matheusqueirozds/bio) 
     * [ ]  📜 Portfólio (em construção) - [*Acesse aqui*](https://github.com/matheusqueirozds/portfolio)
