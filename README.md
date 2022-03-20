@@ -1,56 +1,58 @@
-## Desenvolvedor Front-end e UI Designer.
+# Desenvolvedor Front-end e UI Designer
 
+## 🤓 Sobre mim
+🔍 Atualmente estudo **`HTML`**, **`CSS`**, **`JavaScript`** e **`UI Design`**
 
-### 🚀 Sobre mim
+⚡ Sou cristão, nerd declarado e amante de ficção científica. Meus filmes favoritos são a *Triologia De Volta Para o Futuro* e a *Triologia do Homem-aranha (Sam Raimi)*
 
-- 👩‍💻 Me desafio diariamente, desenvolvendo novos projetos
-- 🧠 Atualmente estudo HTML, CSS, JavaScript e UI Design
-- 🥅 Metas para 2022: Dominar HTML5, CSS3 e JavaScript; Aprender algum framework; Criar, no mínimo, 6 projetos
-- ⚡️ Curiosidades: Sou cristão, nerd declarado e amante de ficção científica. Meus filmes favoritos são a Triologia De Volta Para o Futuro e a Triologia do Homem-aranha (Sam Raimi)
-
-#
-
-### ✉ Meus Links
-
-<div> 
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://matheusqueirozds.vercel.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusqueirozds)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/oabsorvedor)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusqueirozds)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/matheusqueirozds)
-
-</div>
+📈 Metas para 2022 
+  * Criar no mínimo 6 projetos: 
   
-#
+    * [x]  🤖 Site Responsivo Android - [*Acesse aqui*](https://github.com/matheusqueirozds/site-responsivo-android)
+    * [x]  🎵 Desafio Cordel - [*Acesse aqui*](https://github.com/matheusqueirozds/desafio-cordel)
+    * [x]  ☀ Bio - [*Acesse aqui*](https://github.com/matheusqueirozds/bio) 
+    * [ ]  📜 Portfólio (em construção) - [*Acesse aqui*](https://github.com/matheusqueirozds/portfolio)
+    * [ ]  🧹 Vassourax - [*Acesse aqui*](#)
+    * [ ]  ⛪ Site para Igreja - [*Acesse aqui*](#)
+  
+  * Aprender algum framework
 
-### 🛠 Tecnologias e Ferramentas
+### 🔗 Meus Links
+[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logoColor=#FF7139)](https://matheusqueirozds.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusqueirozds)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matheusqueirozds.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusqueirozds@gmail.com)
+---
+---
+## 🛠 Tecnologias e Ferramentas
+### 🔠 Programação
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+---
+---
+### 🖌 Design
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+---
+---
+## 📚 Cursos Realizados
+  Curso | Instituição | Carga horária | Certificado
+  -|:-:|:--:|-
+  UI Design para iniciantes | Origamid | 34 horas | [Acesse aqui](https://drive.google.com/file/d/1_IqY6FIqnL0g_2QMijRrFPlhlfQ6f5sK/view?usp=sharing)
+  Web Design Completo | Origamid | 44 horas | [Acesse aqui](https://drive.google.com/file/d/1Q6OlmB-mWhcixGuN5z1kjGwnzLgoKBeY/view?usp=sharing)
+  Computação Gráfica | Saga | 36 meses | [Acesse aqui](https://drive.google.com/file/d/1fcDaHT4RIssUp5yRAr_3mIbEna9qKPTD/view?usp=sharing)
+  
+---
+---
+## 📊 Estatísticas
 
-<div align="center">
   <a href="https://github.com/matheusqueirozds">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusqueirozds&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div align="center" style="display: inline-block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-</div>
 
-#
 
-### 💻 Projetos mais recentes
-
-- [Site Responsivo Android](https://github.com/matheusqueirozds/site-responsivo-android)
-- [Desafio Cordel](https://github.com/matheusqueirozds/desafio-cordel)
-
-➡️ [Todos os projetos...](https://github.com/matheusqueirozds?tab=repositories)
-
-#
-
-### ⚙️ Outras informações
-
-<div align="center">
   <a href="https://github.com/matheusqueirozds">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=matheusqueirozds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
