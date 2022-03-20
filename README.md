@@ -5,7 +5,7 @@
 
 ⚡ Sou cristão, nerd declarado e amante de ficção científica. Meus filmes favoritos são a *Triologia De Volta Para o Futuro* e a *Triologia do Homem-aranha (Sam Raimi)*
 
-📈 METAS PARA 2022 
+📈 Metas para 2022 
   * Criar no mínimo 6 projetos: 
   
     * [x]  🤖 Site Responsivo Android - [*Acesse aqui*](https://github.com/matheusqueirozds/site-responsivo-android)
