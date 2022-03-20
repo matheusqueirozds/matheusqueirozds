@@ -55,7 +55,7 @@ Curso | Instituição | Carga horária | Conclusão
   
 ---
 
-## 📊 Estatísticas
+## 📊 ESTATÍSTICAS
   <a href="https://github.com/matheusqueirozds">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusqueirozds&layout=compact&langs_count=7&theme=dark"/>
 
