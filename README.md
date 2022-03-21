@@ -60,13 +60,19 @@
 
 <div align="center">
  
+<div> 
+ 
 ### Em andamento
   
 Curso | Instituição | Carga horária | Conclusão
 -|:-:|:-:|-
   Web Full Stack | Labenu | 12 meses | 04/2023
  
+</div> 
+ 
 #
+ 
+<div>  
 
 ### Concluídos
   Curso | Instituição | Carga horária | Certificado
@@ -75,12 +81,20 @@ Curso | Instituição | Carga horária | Conclusão
   Web Design Completo | Origamid | 44 horas | [Acesse aqui](https://drive.google.com/file/d/1Q6OlmB-mWhcixGuN5z1kjGwnzLgoKBeY/view?usp=sharing)
   Computação Gráfica | Saga | 36 meses | [Acesse aqui](https://drive.google.com/file/d/1fcDaHT4RIssUp5yRAr_3mIbEna9qKPTD/view?usp=sharing)
 
+</div> 
+ 
 </div>
 
 ---
 
 ## 📊 ESTATÍSTICAS
 
+<div align="center">
+
+<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=matheusqueirozds&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusqueirozds&theme=github_dark"/>
+
+
 ![snake gif](https://github.com/matheusqueirozds/matheusqueirozds/blob/output/github-contribution-grid-snake.svg)
 
-
+</div>
