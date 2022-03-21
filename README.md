@@ -27,6 +27,20 @@
   * Aprender algum framework
 
 ---
+
+## 📊 ESTATÍSTICAS
+
+<div align="center">
+
+<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=matheusqueirozds&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusqueirozds&theme=github_dark"/>
+
+
+![snake gif](https://github.com/matheusqueirozds/matheusqueirozds/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
 ## 🛠 TECNOLOGIAS E FERRAMENTAS
 
 <div align="center">
@@ -77,18 +91,4 @@ Curso | Instituição | Carga horária | Conclusão
 
 </div> 
  
-</div>
-
----
-
-## 📊 ESTATÍSTICAS
-
-<div align="center">
-
-<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=matheusqueirozds&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusqueirozds&theme=github_dark"/>
-
-
-![snake gif](https://github.com/matheusqueirozds/matheusqueirozds/blob/output/github-contribution-grid-snake.svg)
-
 </div>
