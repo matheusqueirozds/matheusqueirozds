@@ -74,7 +74,7 @@
   
 Curso | Instituição | Carga horária | Conclusão
 -|:-:|:-:|-
-  Web Full Stack | Labenu | 12 meses | 04/2023
+  Desenvolvimento Web Full Stack | Labenu | 12 meses | 04/2023
  
 </div> 
  
