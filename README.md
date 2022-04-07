@@ -9,7 +9,25 @@
  
 </div>
 
-## 🤓 SOBRE MIM
+
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=matheusqueirozds&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusqueirozds&theme=github_dark"/>
+
+
+![snake gif](https://github.com/matheusqueirozds/matheusqueirozds/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🤓 Sobre mim
 🔍 Atualmente estudo **`HTML`**, **`CSS`**, **`JavaScript`** e **`UI Design`**
 
 ⚡ Sou cristão, nerd declarado e amante de ficção científica. Meus filmes favoritos são a *Triologia De Volta Para o Futuro* e a *Triologia do Homem-aranha (Sam Raimi)*
@@ -25,43 +43,6 @@
     * [ ]  ⛪ Site para Igreja - [*Acesse aqui*](#)
   
   * Aprender algum framework
-
----
-
-## 📊 ESTATÍSTICAS
-
-<div align="center">
-
-<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=matheusqueirozds&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusqueirozds&theme=github_dark"/>
-
-
-![snake gif](https://github.com/matheusqueirozds/matheusqueirozds/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-## 🛠 TECNOLOGIAS E FERRAMENTAS
-
-<div align="center">
- 
-### 🔠 Programação
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- 
-</div> 
-
-<div align="center">
- 
-### 🖌 Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
- 
-</div> 
 
 ---
 ## 📚 CURSOS 
