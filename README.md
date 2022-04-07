@@ -10,9 +10,6 @@
 </div>
 
 
-
----
-
 ## 📊 Estatísticas
 
 <div align="center">
@@ -25,27 +22,22 @@
 
 </div>
 
----
-
+<div>
+ <img src="https://blush.design/api/download?shareUri=_2IjHTdNy2WLooYb&c=Monochromatic_0%7E67c3cc-0.2%7E52dc82_Skin_0%7Eb18058-0.2%7Eb18058&w=800&h=800&fm=png"  min-width="25rem" max-width="300rem" width="300rem" align="right">
+ <div/>
+ 
+<br>
+<br>
+ 
 ## 🤓 Sobre mim
 🔍 Atualmente estudo **`HTML`**, **`CSS`**, **`JavaScript`** e **`UI Design`**
 
 ⚡ Sou cristão, nerd declarado e amante de ficção científica. Meus filmes favoritos são a *Triologia De Volta Para o Futuro* e a *Triologia do Homem-aranha (Sam Raimi)*
 
-📈 Metas para 2022 
-  * Criar no mínimo 6 projetos: 
-  
-    * [x]  🤖 Site Responsivo Android - [*Acesse aqui*](https://github.com/matheusqueirozds/site-responsivo-android)
-    * [x]  🎵 Desafio Cordel - [*Acesse aqui*](https://github.com/matheusqueirozds/desafio-cordel)
-    * [x]  ☀ Bio - [*Acesse aqui*](https://github.com/matheusqueirozds/bio) 
-    * [ ]  📜 Portfólio (em construção) - [*Acesse aqui*](https://github.com/matheusqueirozds/portfolio)
-    * [ ]  🧹 Vassourax - [*Acesse aqui*](#)
-    * [ ]  ⛪ Site para Igreja - [*Acesse aqui*](#)
-  
-  * Aprender algum framework
-
----
-## 📚 CURSOS 
+<br>
+<br>
+ 
+## 📚 Cursos 
 
 <div align="center">
  
@@ -73,3 +65,15 @@ Curso | Instituição | Carga horária | Conclusão
 </div> 
  
 </div>
+
+ ## 📈 Metas para 2022 
+  * Criar no mínimo 6 projetos: 
+  
+    * [x]  🤖 Site Responsivo Android - [*Acesse aqui*](https://github.com/matheusqueirozds/site-responsivo-android)
+    * [x]  🎵 Desafio Cordel - [*Acesse aqui*](https://github.com/matheusqueirozds/desafio-cordel)
+    * [x]  ☀ Bio - [*Acesse aqui*](https://github.com/matheusqueirozds/bio) 
+    * [ ]  📜 Portfólio (em construção) - [*Acesse aqui*](https://github.com/matheusqueirozds/portfolio)
+    * [ ]  🧹 Vassourax - [*Acesse aqui*](#)
+    * [ ]  ⛪ Site para Igreja - [*Acesse aqui*](#)
+  
+  * Aprender algum framework
