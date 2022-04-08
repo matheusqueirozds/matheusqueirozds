@@ -8,8 +8,7 @@
  
 </div>
 
-
-## 📊 Estatísticas
+<h2>📊 Estatísticas</h2>
 
 <div align="center">
 
@@ -24,31 +23,29 @@
 <br>
 
 <div>
- 
- <img src="https://blush.design/api/download?shareUri=_2IjHTdNy2WLooYb&c=Monochromatic_0%7E67c3cc-0.2%7E52dc82_Skin_0%7Eb18058-0.2%7Eb18058&w=800&h=800&fm=png" max-width="300rem" width="300rem" align="right">
- 
- <div/>
+<img src="https://blush.design/api/download?shareUri=_2IjHTdNy2WLooYb&c=Monochromatic_0%7E67c3cc-0.2%7E52dc82_Skin_0%7Eb18058-0.2%7Eb18058&w=800&h=800&fm=png" max-width="300rem" width="300rem" align="right">
+<div/>
  
 <br>
  
-<div> 
+<main>
  
-## 🤓 Sobre mim
-🔍 Atualmente estudo **`HTML`**, **`CSS`**, **`JavaScript`** e **`UI Design`**
-
-⚡ Sou cristão, nerd declarado e amante de ficção científica. Meus filmes favoritos são a *Triologia De Volta Para o Futuro* e a *Triologia do Homem-aranha (Sam Raimi)*
- 
-</div>
+<h2>🤓 Sobre mim</h2>
+ <ul>
+   <li>🔍 Atualmente estudo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>UI Design</strong></li>
+   <li>⚡ Sou cristão, nerd declarado e amante de ficção científica. Meus filmes favoritos são a <strong>Triologia De Volta Para o Futuro</strong> e a <strong>Triologia do Homem-aranha (Sam Raimi)</strong></li>
+ <ul> 
+</main>
  
 <br>
  
-## 📚 Cursos 
+<h2>📚 Cursos</h2>
 
 <div align="center">
  
 <div> 
  
-### Em andamento
+<h3>Em andamento</h3>
   
 Curso | Instituição | Carga horária | Conclusão
 -|:-:|:-:|-
@@ -60,7 +57,7 @@ Curso | Instituição | Carga horária | Conclusão
  
 <div>  
 
-### Concluídos
+<h3>Concluídos</h3>
   Curso | Instituição | Carga horária | Certificado
   -|:-:|:--:|-
   UI Design para iniciantes | Origamid | 34 horas | [Acesse aqui](https://drive.google.com/file/d/1_IqY6FIqnL0g_2QMijRrFPlhlfQ6f5sK/view?usp=sharing)
@@ -73,14 +70,16 @@ Curso | Instituição | Carga horária | Conclusão
 
  <br>
  
- ## 📈 Metas para 2022 
-  * Criar no mínimo 6 projetos: 
+<h2>📈 Metas para 2022</h2>
+  <ul>
+    <li>Criar no mínimo 6 projetos: 
   
-    * [x]  🤖 Site Responsivo Android - [*Acesse aqui*](https://github.com/matheusqueirozds/site-responsivo-android)
-    * [x]  🎵 Desafio Cordel - [*Acesse aqui*](https://github.com/matheusqueirozds/desafio-cordel)
-    * [x]  ☀ Bio - [*Acesse aqui*](https://github.com/matheusqueirozds/bio) 
-    * [ ]  📜 Portfólio (em construção) - [*Acesse aqui*](https://github.com/matheusqueirozds/portfolio)
-    * [ ]  🧹 Vassourax - [*Acesse aqui*](#)
-    * [ ]  ⛪ Site para Igreja - [*Acesse aqui*](#)
+    [x] 🤖 Site Responsivo Android - [*Acesse aqui*](https://github.com/matheusqueirozds/site-responsivo-android)
+    [x] 🎵 Desafio Cordel - [*Acesse aqui*](https://github.com/matheusqueirozds/desafio-cordel)
+    [x] ☀ Bio - [*Acesse aqui*](https://github.com/matheusqueirozds/bio) 
+    [ ] 📜 Portfólio (em construção) - [*Acesse aqui*](https://github.com/matheusqueirozds/portfolio)
+    [ ] 🧹 Vassourax - [*Acesse aqui*](#)
+    [ ] ⛪ Site para Igreja - [*Acesse aqui*](#) </li>
   
-  * Aprender algum framework
+   <li> Aprender algum framework </li>
+   <ul>
