@@ -45,7 +45,7 @@
  
 <div> 
  
-<h3>Em andamento</h3>
+### Em andamento
   
 Curso | Instituição | Carga horária | Conclusão
 -|:-:|:-:|-
@@ -57,7 +57,7 @@ Curso | Instituição | Carga horária | Conclusão
  
 <div>  
 
-<h3>Concluídos</h3>
+### Concluídos
   Curso | Instituição | Carga horária | Certificado
   -|:-:|:--:|-
   UI Design para iniciantes | Origamid | 34 horas | [Acesse aqui](https://drive.google.com/file/d/1_IqY6FIqnL0g_2QMijRrFPlhlfQ6f5sK/view?usp=sharing)
