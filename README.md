@@ -28,7 +28,6 @@
  <div/>
  
 <br>
-<br>
  
 <div> 
  
@@ -39,7 +38,6 @@
  
 </div>
  
-<br>
 <br>
  
 ## 📚 Cursos 
@@ -71,6 +69,8 @@ Curso | Instituição | Carga horária | Conclusão
  
 </div>
 
+ <br>
+ 
  ## 📈 Metas para 2022 
   * Criar no mínimo 6 projetos: 
   
