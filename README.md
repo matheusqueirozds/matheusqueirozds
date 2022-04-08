@@ -28,11 +28,15 @@
 <br>
 <br>
  
+<div> 
+ 
 ## 🤓 Sobre mim
 🔍 Atualmente estudo **`HTML`**, **`CSS`**, **`JavaScript`** e **`UI Design`**
 
 ⚡ Sou cristão, nerd declarado e amante de ficção científica. Meus filmes favoritos são a *Triologia De Volta Para o Futuro* e a *Triologia do Homem-aranha (Sam Raimi)*
-
+ 
+</div>
+ 
 <br>
 <br>
  
