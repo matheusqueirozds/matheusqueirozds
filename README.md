@@ -22,7 +22,9 @@
 </div>
 
 <div>
- <img src="https://blush.design/api/download?shareUri=_2IjHTdNy2WLooYb&c=Monochromatic_0%7E67c3cc-0.2%7E52dc82_Skin_0%7Eb18058-0.2%7Eb18058&w=800&h=800&fm=png"  min-width="25rem" max-width="300rem" width="300rem" align="right">
+ 
+ <img src="https://blush.design/api/download?shareUri=_2IjHTdNy2WLooYb&c=Monochromatic_0%7E67c3cc-0.2%7E52dc82_Skin_0%7Eb18058-0.2%7Eb18058&w=800&h=800&fm=png" max-width="300rem" width="300rem" align="right">
+ 
  <div/>
  
 <br>
