@@ -60,10 +60,10 @@ Curso | Instituição | Carga horária | Conclusão
 ### Concluídos
   Emissão | Curso | Instituição | Carga horária | Certificado
   -|:-:|:-:|:--:|-
-  19/03/2022 | Git e GitHub | Curso em Vídeo | 20 horas | [Acesse aqui](https://www.cursoemvideo.com/certificates/certificado/?course_id=41356&cert-nonce=2953a5eede)
-  04/03/2022 | Curso HTML5 e CSS3: módulo 3 de 5 | Curso em Vídeo | 40 horas | [Acesse aqui](https://www.cursoemvideo.com/certificates/certificado/?course_id=87672&cert-nonce=89cea621a8)
-  28/02/2022 | Curso HTML5 e CSS3: módulo 2 de 5 | Curso em Vídeo | 40 horas | [Acesse aqui](https://www.origamid.com/certificate/28b3f184/)
-  29/01/2022 | Curso HTML5 e CSS3: módulo 1 de 5 | Curso em Vídeo | 40 horas | [Acesse aqui](https://www.cursoemvideo.com/certificates/certificado/?course_id=59254&cert-nonce=2635c0d8d1)
+  19/03/2022 | Git e GitHub | Curso em Vídeo | 20 horas | [Acesse aqui](https://www.cursoemvideo.com/certificates/certificado/?course_id=41356&cert-nonce=b0a4e27377)
+  04/03/2022 | Curso HTML5 e CSS3: módulo 3 de 5 | Curso em Vídeo | 40 horas | [Acesse aqui](https://www.cursoemvideo.com/certificates/certificado/?course_id=87672&cert-nonce=5b20225414)
+  28/02/2022 | Curso HTML5 e CSS3: módulo 2 de 5 | Curso em Vídeo | 40 horas | [Acesse aqui](https://www.cursoemvideo.com/certificates/certificado/?course_id=59254&cert-nonce=8c6aeb0425)
+  29/01/2022 | Curso HTML5 e CSS3: módulo 1 de 5 | Curso em Vídeo | 40 horas | [Acesse aqui](https://www.cursoemvideo.com/certificates/certificado/?course_id=51689&cert-nonce=8686ad6cc7)
   13/12/2021 | UI Design para iniciantes | Origamid | 34 horas | [Acesse aqui](https://www.origamid.com/certificate/28b3f184/)
   28/10/2021 | Web Design Completo | Origamid | 44 horas | [Acesse aqui](https://www.origamid.com/certificate/57bbe3f0/)
   12/06/2012 | Computação Gráfica | Saga | 36 meses | [Acesse aqui](https://drive.google.com/file/d/1fcDaHT4RIssUp5yRAr_3mIbEna9qKPTD/view?usp=sharing)
