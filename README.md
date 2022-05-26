@@ -73,12 +73,13 @@ Curso | Instituição | Carga horária | Conclusão
 ## 📈 Metas para 2022
   
 * Criar no mínimo 6 projetos: 
-- [x] 🤖 Site Responsivo Android - [*Acesse aqui*](https://github.com/matheusqueirozds/site-responsivo-android)
-- [x] 🎵 Desafio Cordel - [*Acesse aqui*](https://github.com/matheusqueirozds/desafio-cordel)
-- [x] ☀ Bio - [*Acesse aqui*](https://github.com/matheusqueirozds/bio) 
-- [ ] 📜 Portfólio (em construção) - [*Acesse aqui*](https://github.com/matheusqueirozds/portfolio)
-- [ ] 🧹 Vassourax - [*Acesse aqui*](#)
-- [ ] ⛪ Site para Igreja - [*Acesse aqui*](#) </li>
+- [x] 🤖 Site Responsivo Android - [*Repositório*](https://github.com/matheusqueirozds/site-responsivo-android) | [Site](https://site-responsivo-android.vercel.app/)
+- [x] 🎵 Desafio Cordel - [*Repositório*](https://github.com/matheusqueirozds/desafio-cordel) | [Site](http://desafio-cordel.vercel.app/)
+- [x] ☀ Bio - [*Repositório*](https://github.com/matheusqueirozds/bio) | [Site](https://bio-matheusqueirozds.vercel.app/)
+- [x] 🛒 LabeStore - [*Repositório*](https://github.com/matheusqueirozds/html-sistema-loja) | [Site](html-sistema-loja.vercel.app)
+- [ ] 📜 Portfólio (em construção) - [*Repositório*](https://github.com/matheusqueirozds/portfolio) | [Site](https://matheusqueirozds.vercel.app/)
+- [ ] 🧹 Vassourax - [*Repositório*](#) | [Site (em breve)
+- [ ] ⛪ Site para Igreja - [*Repositório*](#) | Site (em breve)
   
-* Aprender algum framework 
+* Aprender React 
  
