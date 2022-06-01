@@ -81,7 +81,7 @@ Curso | Instituição | Carga horária | Conclusão
 - [x] 🎵 Desafio Cordel - [*Repositório*](https://github.com/matheusqueirozds/desafio-cordel) | [Site](http://desafio-cordel.vercel.app/)
 - [x] ☀ Bio - [*Repositório*](https://github.com/matheusqueirozds/bio) | [Site](https://bio-matheusqueirozds.vercel.app/)
 - [x] 🛒 LabeStore - [*Repositório*](https://github.com/matheusqueirozds/html-sistema-loja) | [Site](https://html-sistema-loja.vercel.app/)
-- [ ] 📜 Portfólio (em construção) - [*Repositório*](https://github.com/matheusqueirozds/projeto-portfolio) | [Site](https://matheusqueirozds.vercel.app/)
+- [x] 📜 Portfólio (em construção) - [*Repositório*](https://github.com/matheusqueirozds/projeto-portfolio) | [Site](https://matheusqueirozds.vercel.app/)
 - [ ] 🧹 Vassourax - Repositório (em breve) | Site (em breve)
 - [ ] ⛪ Site para Igreja - Repositório (em breve) | Site (em breve)
   
