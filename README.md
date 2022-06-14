@@ -12,8 +12,10 @@
 
 <div align="center">
 
-<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=matheusqueirozds&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusqueirozds&theme=github_dark"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&custom_title=Minhas estatísticas&username=matheusqueirozds" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=matheusqueirozds" height="150" alt="languages graph"  />
+</div>
 
 
 ![snake gif](https://github.com/matheusqueirozds/matheusqueirozds/blob/output/github-contribution-grid-snake.svg)
