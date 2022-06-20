@@ -84,6 +84,7 @@ Curso | Instituição | Carga horária | Conclusão
 - [x] ☀ Bio - [*Repositório*](https://github.com/matheusqueirozds/bio) | [Site](https://bio-matheusqueirozds.vercel.app/)
 - [x] 🛒 LabeStore - [*Repositório*](https://github.com/matheusqueirozds/html-sistema-loja) | [Site](https://html-sistema-loja.vercel.app/)
 - [x] 📜 Portfólio (em construção) - [*Repositório*](https://github.com/matheusqueirozds/projeto-portfolio) | [Site](https://matheusqueirozds.vercel.app/)
+- [x] ⛑ CMLife - [*Repositório*](https://github.com/matheusqueirozds/clinica-medica) | [Site](https://clinicamedica.vercel.app/)
 - [ ] 🧹 Vassourax - Repositório (em breve) | Site (em breve)
 - [ ] ⛪ Site para Igreja - Repositório (em breve) | Site (em breve)
   
