@@ -85,7 +85,7 @@ Curso | Instituição | Carga horária | Conclusão
 - [x] 📜 Portfólio (em construção) - [*Repositório*](https://github.com/matheusqueirozds/projeto-portfolio) | [Site](https://matheusqueirozds.vercel.app/)
 - [x] ⛑ CMLife - [*Repositório*](https://github.com/matheusqueirozds/clinica-medica) | [Site](https://clinicamedica.vercel.app/)
 - [x] 💰 F4Bank - [*Repositório*](https://github.com/matheusqueirozds/f4bank) | [Site](https://futurebank.vercel.app/)
-- [ ] 🧹 Vassourax - Repositório (em breve) | Site (em breve)
+- [ ] 🧹 Vassourax - [*Repositório*](https://github.com/matheusqueirozds/vassourax) | [Site](https://vassourax.vercel.app/)
 - [ ] ⛪ Site para Igreja - Repositório (em breve) | Site (em breve)
   
 * Aprender React 
