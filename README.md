@@ -15,12 +15,25 @@
 <br>
  
 <main>
- 
-<h2>🤓 Sobre mim</h2>
+<h2>💪 Hard Skills</h2>
+
+<h3>Frontend</h3>
  <ul>
-   <li>🔍 Atualmente estudo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>UI Design</strong></li>
-   <li>⚡ Sou cristão, nerd declarado e amante de ficção científica. Meus filmes favoritos são a <strong>Triologia De Volta Para o Futuro</strong> e a <strong>Triologia do Homem-aranha (Sam Raimi)</strong></li>
- <ul> 
+   <li>✅ Figma</li>
+   <li>✅ HTML5 e CSS3</li>
+   <li>✅ JavaScript </li>
+   <li>🚫 React</li>
+   <li>🚫 Jest</li>
+ </ul> 
+ 
+ <h3>Backend</h3>
+ <ul>
+   <li>🚫 nodeJS</li>
+   <li>🚫 TypeScript</li>
+   <li>🚫 MySQL </li>
+   <li>🚫 aws</li>
+   <li>🚫 Firebase</li>
+ </ul> 
 </main>
  
 <br>
