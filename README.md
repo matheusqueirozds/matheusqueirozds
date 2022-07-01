@@ -8,22 +8,6 @@
  
 </div>
 
-<h2>📊 Estatísticas</h2>
-
-<div align="center">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&custom_title=Minhas estatísticas&username=matheusqueirozds" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=matheusqueirozds" height="150" alt="languages graph"  />
-</div>
-
-
-![snake gif](https://github.com/matheusqueirozds/matheusqueirozds/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<br>
-
 <div>
 <img src="https://blush.design/api/download?shareUri=_2IjHTdNy2WLooYb&c=Monochromatic_0%7E67c3cc-0.2%7E52dc82_Skin_0%7Eb18058-0.2%7Eb18058&w=800&h=800&fm=png" max-width="300rem" width="300rem" align="right">
 <div/>
@@ -41,7 +25,6 @@
  
 <br>
  
- 
 ## 📈 Projetos criados em 2022:
   
 - [x] 06/2022 - 🧹 **Vassourax -** E-commerce baseado no universo de Harry Potter. ([*Repositório*](https://github.com/matheusqueirozds/vassourax) | [Site](https://vassourax.vercel.app/))
@@ -52,4 +35,20 @@
 - [x] 04/2022 - ☀ **Bio -** Página de redirecionamento de links do Instagram. ([*Repositório*](https://github.com/matheusqueirozds/bio) | [Site](https://bio-matheusqueirozds.vercel.app/))
 - [x] 03/2022 - 🤖 **Site Responsivo Android -** Site de conteúdos sobre o Android. ([*Repositório*](https://github.com/matheusqueirozds/site-responsivo-android) | [Site](https://site-responsivo-android.vercel.app/))
   
- 
+<br>
+
+<h2>📊 Estatísticas</h2>
+
+<div align="center">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&custom_title=Minhas estatísticas&username=matheusqueirozds" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=matheusqueirozds" height="150" alt="languages graph"  />
+</div>
+
+
+![snake gif](https://github.com/matheusqueirozds/matheusqueirozds/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<br>
