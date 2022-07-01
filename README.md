@@ -41,52 +41,15 @@
  
 <br>
  
-<h2>📚 Cursos</h2>
-
-<div align="center">
  
-<div> 
- 
-### Em andamento
+## 📈 Projetos criados em 2022:
   
-Curso | Instituição | Carga horária | Conclusão
--|:-:|:-:|-
-  Desenvolvimento Web Full Stack | Labenu | 12 meses | 04/2023
- 
-</div> 
- 
-#
- 
-<div>  
-
-### Concluídos
-  Emissão | Curso | Instituição | Carga horária | Certificado
-  -|:-:|:-:|:--:|-
-  19/03/2022 | Git e GitHub | Curso em Vídeo | 20 horas | [Acesse aqui](https://www.cursoemvideo.com/certificates/certificado/?course_id=41356&cert-nonce=b0a4e27377)
-  04/03/2022 | Curso HTML5 e CSS3: módulo 3 de 5 | Curso em Vídeo | 40 horas | [Acesse aqui](https://www.cursoemvideo.com/certificates/certificado/?course_id=87672&cert-nonce=5b20225414)
-  28/02/2022 | Curso HTML5 e CSS3: módulo 2 de 5 | Curso em Vídeo | 40 horas | [Acesse aqui](https://www.cursoemvideo.com/certificates/certificado/?course_id=59254&cert-nonce=8c6aeb0425)
-  29/01/2022 | Curso HTML5 e CSS3: módulo 1 de 5 | Curso em Vídeo | 40 horas | [Acesse aqui](https://www.cursoemvideo.com/certificates/certificado/?course_id=51689&cert-nonce=8686ad6cc7)
-  13/12/2021 | UI Design para iniciantes | Origamid | 34 horas | [Acesse aqui](https://www.origamid.com/certificate/28b3f184/)
-  28/10/2021 | Web Design Completo | Origamid | 44 horas | [Acesse aqui](https://www.origamid.com/certificate/57bbe3f0/)
-  12/06/2012 | Computação Gráfica | Saga | 36 meses | [Acesse aqui](https://drive.google.com/file/d/1fcDaHT4RIssUp5yRAr_3mIbEna9qKPTD/view?usp=sharing)
-
-</div> 
- 
-</div>
-
- <br>
- 
-## 📈 Metas para 2022
+- [x] 06/2022 - 🧹 **Vassourax -** E-commerce baseado no universo de Harry Potter. ([*Repositório*](https://github.com/matheusqueirozds/vassourax) | [Site](https://vassourax.vercel.app/))
+- [x] 06/2022 - 💰 **F4Bank -** Landing Page de um banco digital. ([*Repositório*](https://github.com/matheusqueirozds/f4bank) | [Site](https://futurebank.vercel.app/))
+- [x] 06/2022 - ⛑ **CMLife -** Página institucional de uma clínica médica. ([*Repositório*](https://github.com/matheusqueirozds/clinica-medica) | [Site](https://clinicamedica.vercel.app/))
+- [x] 05/2022 - 📜 **Portfólio -** Portfólio criado com os conhecimentos adquiridos anteriormente. ([*Repositório*](https://github.com/matheusqueirozds/projeto-portfolio) | [Site](https://matheusqueirozds.vercel.app/))
+- [x] 05/2022 - 🛒 **LabeStore -** Sistema interno de uma loja. ([*Repositório*](https://github.com/matheusqueirozds/html-sistema-loja) | [Site](https://html-sistema-loja.vercel.app/))
+- [x] 04/2022 - ☀ **Bio -** Página de redirecionamento de links do Instagram. ([*Repositório*](https://github.com/matheusqueirozds/bio) | [Site](https://bio-matheusqueirozds.vercel.app/))
+- [x] 03/2022 - 🤖 **Site Responsivo Android -** Site de conteúdos sobre o Android. ([*Repositório*](https://github.com/matheusqueirozds/site-responsivo-android) | [Site](https://site-responsivo-android.vercel.app/))
   
-* Criar no mínimo 6 projetos: 
-- [x] 🤖 Site Responsivo Android - [*Repositório*](https://github.com/matheusqueirozds/site-responsivo-android) | [Site](https://site-responsivo-android.vercel.app/)
-- [x] ☀ Bio - [*Repositório*](https://github.com/matheusqueirozds/bio) | [Site](https://bio-matheusqueirozds.vercel.app/)
-- [x] 🛒 LabeStore - [*Repositório*](https://github.com/matheusqueirozds/html-sistema-loja) | [Site](https://html-sistema-loja.vercel.app/)
-- [x] 📜 Portfólio (em construção) - [*Repositório*](https://github.com/matheusqueirozds/projeto-portfolio) | [Site](https://matheusqueirozds.vercel.app/)
-- [x] ⛑ CMLife - [*Repositório*](https://github.com/matheusqueirozds/clinica-medica) | [Site](https://clinicamedica.vercel.app/)
-- [x] 💰 F4Bank - [*Repositório*](https://github.com/matheusqueirozds/f4bank) | [Site](https://futurebank.vercel.app/)
-- [x] 🧹 Vassourax - [*Repositório*](https://github.com/matheusqueirozds/vassourax) | [Site](https://vassourax.vercel.app/)
-- [ ] ⛪ Site para Igreja - Repositório (em breve) | Site (em breve)
-  
-* Aprender React 
  
