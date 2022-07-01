@@ -38,7 +38,7 @@
  
 <br>
  
-## 📈 Projetos criados em 2022:
+## 📈 Projetos criados em 2022
   
 - [x] 06/2022 - 🧹 **Vassourax -** E-commerce baseado no universo de Harry Potter. ([*Repositório*](https://github.com/matheusqueirozds/vassourax) | [Site](https://vassourax.vercel.app/))
 - [x] 06/2022 - 💰 **F4Bank -** Landing Page de um banco digital. ([*Repositório*](https://github.com/matheusqueirozds/f4bank) | [Site](https://futurebank.vercel.app/))
