@@ -38,9 +38,9 @@
  
 <br>
  
-## 📈 Projetos criados em 2022
+## 📈 Principais projetos criados em 2022
  
-- [x] 07/2022 - 💼 **Clone do LinkedIn -** Página de perfil do LinkedIn. ([*Repositório*](https://github.com/matheusqueirozds/clone-linkedin) | [Site](https://labedin.vercel.app/))
+- [x] 08/2022 - 🦁 **Animais Fantásticos -** Página fictícia sobre animais. ([*Repositório*](https://github.com/matheusqueirozds/animais-fantasticos) | [Site](https://animais-fantasticos-sigma.vercel.app/))
 - [x] 06/2022 - 🧹 **Vassourax -** E-commerce baseado no universo de Harry Potter. ([*Repositório*](https://github.com/matheusqueirozds/vassourax) | [Site](https://vassourax.vercel.app/))
 - [x] 06/2022 - 💰 **F4Bank -** Landing Page de um banco digital. ([*Repositório*](https://github.com/matheusqueirozds/f4bank) | [Site](https://futurebank.vercel.app/))
 - [x] 06/2022 - ⛑ **CMLife -** Página institucional de uma clínica médica. ([*Repositório*](https://github.com/matheusqueirozds/clinica-medica) | [Site](https://clinicamedica.vercel.app/))
