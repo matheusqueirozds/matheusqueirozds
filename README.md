@@ -45,7 +45,6 @@
 - [x] 06/2022 - 💰 **F4Bank -** Landing Page de um banco digital. ([*Repositório*](https://github.com/matheusqueirozds/f4bank) | [Site](https://futurebank.vercel.app/))
 - [x] 06/2022 - ⛑ **CMLife -** Página institucional de uma clínica médica. ([*Repositório*](https://github.com/matheusqueirozds/clinica-medica) | [Site](https://clinicamedica.vercel.app/))
 - [x] 05/2022 - 📜 **Portfólio -** Portfólio criado com os conhecimentos adquiridos anteriormente. ([*Repositório*](https://github.com/matheusqueirozds/projeto-portfolio) | [Site](https://matheusqueirozds.vercel.app/))
-- [x] 05/2022 - 🛒 **LabeStore -** Sistema interno de uma loja. ([*Repositório*](https://github.com/matheusqueirozds/html-sistema-loja) | [Site](https://html-sistema-loja.vercel.app/))
 - [x] 04/2022 - ☀ **Bio -** Página de redirecionamento de links do Instagram. ([*Repositório*](https://github.com/matheusqueirozds/bio) | [Site](https://bio-matheusqueirozds.vercel.app/))
 - [x] 03/2022 - 🤖 **Site Responsivo Android -** Site de conteúdos sobre o Android. ([*Repositório*](https://github.com/matheusqueirozds/site-responsivo-android) | [Site](https://site-responsivo-android.vercel.app/))
   
