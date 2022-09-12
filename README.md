@@ -39,7 +39,8 @@
 <br>
  
 ## 📈 Principais projetos criados em 2022
- 
+
+- [x] 09/2022 - 🎱 **Pokédex -** Projeto desenvolvido em React JS com o consumo de uma API. ([*Repositório*](https://github.com/matheusqueirozds/pokedex) | [Site](https://jemison-pokedex8.vercel.app/))
 - [x] 08/2022 - 🦁 **Animais Fantásticos -** Página fictícia sobre animais. ([*Repositório*](https://github.com/matheusqueirozds/animais-fantasticos) | [Site](https://animais-fantasticos-sigma.vercel.app/))
 - [x] 07/2022 - 🧹 **Vassourax -** E-commerce baseado no universo de Harry Potter. ([*Repositório*](https://github.com/matheusqueirozds/vassourax) | [Site](https://vassourax.vercel.app/))
 - [x] 06/2022 - 💰 **F4Bank -** Landing Page de um banco digital. ([*Repositório*](https://github.com/matheusqueirozds/f4bank) | [Site](https://futurebank.vercel.app/))
