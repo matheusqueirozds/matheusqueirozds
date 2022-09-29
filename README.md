@@ -14,27 +14,28 @@
  
 <br>
  
-<main>
-<h2>💪 Hard Skills</h2>
-
-<h3>Frontend</h3>
- <ul>
-   <li>✅ Figma</li>
-   <li>✅ HTML5 e CSS3</li>
-   <li>🔄 JavaScript </li>
-   <li>🔄 React</li>
-   <li>🚫 Jest</li>
- </ul> 
+<div>
  
- <h3>Backend</h3>
- <ul>
-   <li>🚫 nodeJS</li>
-   <li>🚫 TypeScript</li>
-   <li>🚫 MySQL </li>
-   <li>🚫 aws</li>
-   <li>🚫 Firebase</li>
- </ul> 
-</main>
+<h2>💪 Hard Skills</h2>
+ 
+| <h3>UX/UI Designer</h3> | <h3>Frontend</h3> |  <h3>Backend</h3> |  
+:----:|:----:|:----:
+✅ Figma | ✅ HTML5 e CSS3 | 🚫 Jest 
+| | 🔄 JavaScript | 🚫 nodeJS
+| | 🔄 React | 🚫 TypeScript
+| |  | 🚫 MySQL
+| |  | | 🚫 aws
+|| | | 🚫 Firebase
+ 
+<h4>Legenda</h4>
+ 
+Símbolo | Descrição 
+ :----:|:----:
+ ✅ | Dominado!
+ 🔄 | Estudando
+ 🚫 | Ainda irei estudar
+ 
+</div>
  
 <br>
  
