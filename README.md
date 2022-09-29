@@ -20,20 +20,15 @@
  
 | <h3>UX/UI Designer</h3> | <h3>Frontend</h3> |  <h3>Backend</h3> |  
 :----:|:----:|:----:
-✅ Figma | ✅ HTML5 e CSS3 | 🚫 Jest 
-| | 🔄 JavaScript | 🚫 nodeJS
-| | 🔄 React | 🚫 TypeScript
-| |  | 🚫 MySQL
-| |  | | 🚫 aws
-|| | | 🚫 Firebase
- 
-<h4>Legenda</h4>
- 
-Símbolo | Descrição 
- :----:|:----:
- ✅ | Dominado!
- 🔄 | Estudando
- 🚫 | Ainda irei estudar
+✅ <br> Figma | ✅ <br> HTML5 e CSS3 | 🚫 <br> Jest 
+| | 🔄 <br> JavaScript | 🚫 <br> nodeJS
+| | 🔄 <br> React | 🚫 <br> TypeScript
+| | | | 🚫 <br> MySQL
+| | | | 🚫 <br> aws
+| | | | 🚫 <br> Firebase
+  
+LEGENDA | ✅ Dominado! | 🔄 Estudando | 🚫 Ainda irei estudar
+:----:|:----:|:----:|:----:
  
 </div>
  
