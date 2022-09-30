@@ -9,13 +9,12 @@
 </div>
 
 <div>
-<img src="https://blush.design/api/download?shareUri=_2IjHTdNy2WLooYb&c=Monochromatic_0%7E67c3cc-0.2%7E52dc82_Skin_0%7Eb18058-0.2%7Eb18058&w=800&h=800&fm=png" max-width="300rem" width="300rem" align="right">
+
+<div width="300rem" width="300rem">
+<img src="https://blush.design/api/download?shareUri=_2IjHTdNy2WLooYb&c=Monochromatic_0%7E67c3cc-0.2%7E52dc82_Skin_0%7Eb18058-0.2%7Eb18058&w=800&h=800&fm=png" max-width="400rem" width="400rem" align="right">
 <div/>
- 
-<br>
- 
-<div>
- 
+
+<div width="300rem" width="300rem">
 <h2>💪 Hard Skills</h2>
  
 | <h3>UX/UI Designer</h3> | <h3>Frontend</h3> |  <h3>Backend</h3> |  
@@ -32,6 +31,8 @@ LEGENDA | ✅ Dominado! | 🔄 Estudando | 🚫 Ainda irei estudar
 :----:|:----:|:----:|:----:
  
 </div>
+</div>
+
  
 <br>
  
