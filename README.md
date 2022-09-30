@@ -38,14 +38,35 @@ LEGENDA | ✅ Dominado! | 🔄 Estudando | 🚫 Ainda irei estudar
  
 ## 📈 Principais projetos criados em 2022
 
-- [x] 09/2022 - 🎱 **Pokédex -** Projeto desenvolvido em React JS com o consumo de uma API. ([*Repositório*](https://github.com/matheusqueirozds/pokedex) | [Site](https://jemison-pokedex8.vercel.app/))
-- [x] 08/2022 - 🦁 **Animais Fantásticos -** Página fictícia sobre animais. ([*Repositório*](https://github.com/matheusqueirozds/animais-fantasticos) | [Site](https://animais-fantasticos-sigma.vercel.app/))
-- [x] 07/2022 - 🧹 **Vassourax -** E-commerce baseado no universo de Harry Potter. ([*Repositório*](https://github.com/matheusqueirozds/vassourax) | [Site](https://vassourax.vercel.app/))
-- [x] 06/2022 - 💰 **F4Bank -** Landing Page de um banco digital. ([*Repositório*](https://github.com/matheusqueirozds/f4bank) | [Site](https://futurebank.vercel.app/))
-- [x] 06/2022 - ⛑ **CMLife -** Página institucional de uma clínica médica. ([*Repositório*](https://github.com/matheusqueirozds/clinica-medica) | [Site](https://clinicamedica.vercel.app/))
-- [x] 05/2022 - 📜 **Portfólio -** Portfólio criado com HTML, CSS e JavaScript. ([*Repositório*](https://github.com/matheusqueirozds/portfolio) | [Site](https://matheusqueirozds.dev))
-- [x] 04/2022 - ☀ **Bio -** Página de redirecionamento de links do Instagram. ([*Repositório*](https://github.com/matheusqueirozds/bio) | [Site](https://bio-matheusqueirozds.vercel.app/))
-- [x] 03/2022 - 🤖 **Site Responsivo Android -** Site de conteúdos sobre o Android. ([*Repositório*](https://github.com/matheusqueirozds/site-responsivo-android) | [Site](https://site-responsivo-android.vercel.app/))
+<h4>Setembro</h4>  
+
+- [x] 🎱 **Pokédex -** *Projeto desenvolvido em React JS com o consumo de uma API.* ([Repositório](https://github.com/matheusqueirozds/pokedex) | [Site](https://jemison-pokedex8.vercel.app/))
+
+<h4>Agosto</h4>
+
+- [x] 🦁 **Animais Fantásticos -** *Página fictícia sobre animais.* ([Repositório](https://github.com/matheusqueirozds/animais-fantasticos) | [Site](https://animais-fantasticos-sigma.vercel.app/))
+
+<h4>Julho</h4>
+
+- [x] 🧹 **Vassourax -** *E-commerce baseado no universo de Harry Potter.* ([Repositório](https://github.com/matheusqueirozds/vassourax) | [Site](https://vassourax.vercel.app/))
+- [x] 🛒 **Labecommertce -** *E-commerce de camisetas com estampas divertidas relacionadas ao espaço* ([Repositório](https://github.com/matheusqueirozds/labe-commerce) | [Site](https://general-volcano.surge.sh/)
+
+<h4>Junho</h4>
+
+- [x] 💰 **F4Bank -** *Landing Page de um banco digital.* ([Repositório](https://github.com/matheusqueirozds/f4bank) | [Site](https://futurebank.vercel.app/))
+- [x] ⛑ **CMLife -** *Página institucional de uma clínica médica.* ([Repositório](https://github.com/matheusqueirozds/clinica-medica) | [Site](https://clinicamedica.vercel.app/)) 
+
+<h4>Maio</h4>
+
+- [x] 📜 **Portfólio -** *Portfólio criado com HTML, CSS e JavaScript.* ([Repositório](https://github.com/matheusqueirozds/portfolio) | [Site](https://matheusqueirozds.dev))
+
+<h4>Abril</h4>
+
+- [x] ☀ **Bio -** *Página de redirecionamento de links do Instagram.* ([Repositório](https://github.com/matheusqueirozds/bio-instagram) | [Site](https://bio-matheusqueirozds.vercel.app/))
+
+<h4>Março</h4>
+
+- [x] 🤖 **Site Responsivo Android -** *Site de conteúdos sobre o Android.* ([Repositório](https://github.com/matheusqueirozds/site-responsivo-android) | [Site](https://site-responsivo-android.vercel.app/))
   
 <br>
 
