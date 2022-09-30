@@ -20,12 +20,14 @@
  
 | <h3>UX/UI Designer</h3> | <h3>Frontend</h3> |  <h3>Backend</h3> |  
 :----:|:----:|:----:
-✅ <br> Figma | ✅ <br> HTML5 e CSS3 | 🚫 <br> Jest 
-| | 🔄 <br> JavaScript | 🚫 <br> nodeJS
-| | 🔄 <br> React | 🚫 <br> TypeScript
-| | | | 🚫 <br> MySQL
-| | | | 🚫 <br> aws
-| | | | 🚫 <br> Firebase
+✅ <br> Figma | ✅ <br> HTML e Markdown | 🚫 <br> Jest 
+✅ <br> Cores | ✅ <br> CSS3 e SASS  | 🚫 <br> nodeJS
+✅ <br> Tipografia | ✅ <br> Layout Responsivo | 🚫 <br> TypeScript
+✅ <br> Usabilidade | 🔄 <br> JavaScript  | 🚫 <br> MySQL
+🚫 <br> Wireframe | 🔄 <br> React | 🚫 <br> aws
+🚫 <br> Protótipo | 🚫 <br> WordPress | 🚫 <br> Firebase
+🚫 <br> Heurísticas | 🚫 <br> WooCommerce | |
+| | 🚫 <br> Bootstrap | |
   
 LEGENDA | ✅ Dominado! | 🔄 Estudando | 🚫 Ainda irei estudar
 :----:|:----:|:----:|:----:
