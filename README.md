@@ -42,7 +42,7 @@ LEGENDA | ✅ Dominado! | 🔄 Estudando | 🚫 Ainda irei estudar
 - [x] 09/22 - 🎱 **Pokédex -** *Projeto desenvolvido em React JS com o consumo de uma API.* ([Repositório](https://github.com/matheusqueirozds/pokedex) | [Site](https://jemison-pokedex8.vercel.app/))
 - [x] 08/22 - 🦁 **Animais Fantásticos -** *Página fictícia sobre animais.* ([Repositório](https://github.com/matheusqueirozds/animais-fantasticos) | [Site](https://animais-fantasticos-sigma.vercel.app/))
 - [x] 07/22 - 🧹 **Vassourax -** *E-commerce baseado no universo de Harry Potter.* ([Repositório](https://github.com/matheusqueirozds/vassourax) | [Site](https://vassourax.vercel.app/))
-- [x] 07/22 - 🛒 **Labecommertce -** *E-commerce de camisetas com estampas divertidas relacionadas ao espaço* ([Repositório](https://github.com/matheusqueirozds/labe-commerce) | [Site](https://general-volcano.surge.sh/)
+- [x] 07/22 - 🛒 **Labecommertce -** *E-commerce de camisetas com estampas divertidas relacionadas ao espaço* ([Repositório](https://github.com/matheusqueirozds/labe-commerce) | [Site](https://general-volcano.surge.sh/))
 - [x] 06/22 - 💰 **F4Bank -** *Landing Page de um banco digital.* ([Repositório](https://github.com/matheusqueirozds/f4bank) | [Site](https://futurebank.vercel.app/))
 - [x] 06/22 - ⛑ **CMLife -** *Página institucional de uma clínica médica.* ([Repositório](https://github.com/matheusqueirozds/clinica-medica) | [Site](https://clinicamedica.vercel.app/)) 
 - [x] 05/22 - 📜 **Portfólio -** *Portfólio criado com HTML, CSS e JavaScript.* ([Repositório](https://github.com/matheusqueirozds/portfolio) | [Site](https://matheusqueirozds.dev))
