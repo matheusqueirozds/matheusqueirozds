@@ -8,6 +8,16 @@
  
 </div>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/matheusqueirozds/count.svg?"  />
+</div>
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=matheusqueirozds" alt="Layout with last medium posts"  />
+</div>
+
+###
+
 <div>
 
 <div>
@@ -73,11 +83,11 @@ LEGENDA | ✅ Dominado! | 🔄 Estudando | 🚫 Ainda irei estudar
 <h2>📊 Estatísticas</h2>
 
 <div align="center">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&username=matheusqueirozds" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=matheusqueirozds" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&username=matheusqueirozds" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&username=matheusqueirozds" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ![snake gif](https://github.com/matheusqueirozds/matheusqueirozds/blob/output/github-contribution-grid-snake.svg)
 
