@@ -16,7 +16,7 @@
 <h2>💪 Hard Skills</h2>
 
 <br clear="both">
-<img align="right" height="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" title="Matheus Queiroz tentando tirar leite de bug"  />
 
 <div width="300rem" width="300rem">
  
