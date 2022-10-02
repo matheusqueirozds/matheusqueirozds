@@ -12,9 +12,9 @@
 <h2>💪 Hard Skills</h2>
 
 <br clear="both">
-<img align="right" height="250rem" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" title="Matheus Queiroz tentando tirar leite de bug"  />
+<img align="right" width="200px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" title="Matheus Queiroz tentando tirar leite de bug"  />
 
-<div height="250rem">
+<div>
  
 | <h3>UX/UI Designer</h3> | <h3>Frontend</h3> | <h3>Backend</h3> | <h3>Mobile</h3>
 ---|---|---|---
