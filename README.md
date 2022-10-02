@@ -12,14 +12,14 @@
 <h2>💪 Hard Skills</h2>
 
 <br clear="both">
-<img align="right" height="250px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" title="Matheus Queiroz tentando tirar leite de bug"  />
+<img align="right" height="300px"  src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" title="Matheus Queiroz tentando tirar leite de bug"  />
 
-<div height="250px">
+<div>
  
-| <h3>UX/UI Designer</h3> | <h3>Frontend</h3> | <h3>Backend</h3> | <h3>Mobile</h3>
----|---|---|---
-✅ Figma | ✅ HTML e Markdown | 🚫 Jest | 🚫 React Native
-✅ Cores | ✅ CSS3, SASS e Styled-Components | 🚫 nodeJS | 🚫 Flutter
+| <h3>UX/UI Designer</h3> | <h3>Frontend</h3> | <h3>Backend</h3> 
+---|---|---
+✅ Figma | ✅ HTML e Markdown | 🚫 Jest 
+✅ Cores | ✅ CSS3, SASS e Styled-Components | 🚫 nodeJS
 ✅ Tipografia | ✅ Layout Responsivo | 🚫 TypeScript
 ✅ Usabilidade | 🔄 JavaScript | 🚫 MySQL
 🚫 Wireframe | 🔄 React | 🚫 aws
