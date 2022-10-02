@@ -46,7 +46,7 @@ LEGENDA | ✅ Dominado! | 🔄 Estudando | 🚫 Ainda irei estudar
 - [x] 06/22 - 💰 **F4Bank -** *Landing Page de um banco digital.* ([Repositório](https://github.com/matheusqueirozds/f4bank) | [Site](https://futurebank.vercel.app/))
 - [x] 06/22 - ⛑ **CMLife -** *Página institucional de uma clínica médica.* ([Repositório](https://github.com/matheusqueirozds/clinica-medica) | [Site](https://clinicamedica.vercel.app/)) 
 - [x] 05/22 - 📜 **Portfólio -** *Portfólio criado com HTML, CSS e JavaScript.* ([Repositório](https://github.com/matheusqueirozds/portfolio) | [Site](https://matheusqueirozds.dev))
-- [x] 04/22 - 👨🏽‍💻 **Principais comandos para usar no Git bash -** *Guia para devs e divas cansados de pesquisar os comandos no Google.* ([Repositório](https://github.com/matheusqueirozds/comandos-git) | [Site](https://github.com/matheusqueirozds/comandos-git))
+- [x] 04/22 - 👨🏽‍💻 **Comandos para usar no Git bash -** *Guia para devs e divas cansados de pesquisar os comandos no Google.* ([Repositório](https://github.com/matheusqueirozds/comandos-git))
 - [x] 04/22 - ☀ **Bio -** *Página de redirecionamento de links do Instagram.* ([Repositório](https://github.com/matheusqueirozds/bio-instagram) | [Site](https://bio-matheusqueirozds.vercel.app/))
 - [x] 03/22 - 🤖 **Site Responsivo Android -** *Site de conteúdos sobre o Android.* ([Repositório](https://github.com/matheusqueirozds/site-responsivo-android) | [Site](https://site-responsivo-android.vercel.app/))
 
