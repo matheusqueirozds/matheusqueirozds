@@ -35,7 +35,7 @@ LEGENDA | ✅ Dominado! | 🔄 Estudando | 🚫 Ainda irei estudar
 <br>
  
 ## 📈 Principais projetos criados em 2022
-- [x] 09/22 - 🎱 **Pokédex -** *Projeto desenvolvido em React JS com o consumo de uma API.* ([Repositório](https://github.com/matheusqueirozds/pokedex) | [Site](https://jemison-pokedex8.vercel.app/))
+- [x] 09/22 - 🐣 **Pokédex -** *Projeto desenvolvido em React JS com o consumo de uma API.* ([Repositório](https://github.com/matheusqueirozds/pokedex) | [Site](https://jemison-pokedex8.vercel.app/))
 - [x] 08/22 - 🦁 **Animais Fantásticos -** *Página fictícia sobre animais.* ([Repositório](https://github.com/matheusqueirozds/animais-fantasticos) | [Site](https://animais-fantasticos-sigma.vercel.app/))
 - [x] 07/22 - 🧹 **Vassourax -** *E-commerce baseado no universo de Harry Potter.* ([Repositório](https://github.com/matheusqueirozds/vassourax) | [Site](https://vassourax.vercel.app/))
 - [x] 07/22 - 🛒 **Labecommerce -** *E-commerce de camisetas com estampas divertidas relacionadas ao espaço* ([Repositório](https://github.com/matheusqueirozds/labe-commerce) | [Site](https://general-volcano.surge.sh/))
