@@ -8,7 +8,7 @@
  
 </div>
 
-<div align="center"> Apoie os meus estudos, adquirindo os produtos da minha loja, feita para programadores! <a href="https://montink.com/nobugnogain">Clique aqui</a>.</div> 
+<p align="center"> Apoie os meus estudos, adquirindo os produtos da minha loja, feita para programadores! <a href="https://montink.com/nobugnogain">Clique aqui</a> para conferir.</p>
 
 <div>
 <h2>💪 Hard Skills</h2>
