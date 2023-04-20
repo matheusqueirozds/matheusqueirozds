@@ -21,12 +21,12 @@
 | <h3>UX/UI Designer</h3> | <h3>Frontend</h3> | <h3>Backend</h3> 
 ---|---|---
 ✅ Figma | ✅ HTML e Markdown | 🚫 Jest 
-✅ Cores | ✅ CSS3, SASS e Styled-Components | 🚫 nodeJS
+✅ Cores | ✅ CSS3, SASS e Styled-Components | ✅ nodeJS
 ✅ Tipografia | ✅ Layout Responsivo | 🚫 TypeScript
-✅ Usabilidade | 🔄 JavaScript | 🚫 MySQL
-🚫 Wireframe | 🔄 React | 🚫 aws
-🚫 Protótipo | 🚫 WordPress | 🚫 Firebase
-🚫 Heurísticas | 🚫 WooCommerce 
+✅ Usabilidade | ✅ JavaScript | 🚫 MySQL
+✅ Wireframe | ✅ React | 🚫 aws
+✅ Protótipo | ✅ WordPress | ✅ Firebase
+✅ Heurísticas | ✅ WooCommerce 
   
 LEGENDA | ✅ Dominado! | 🔄 Estudando | 🚫 Ainda irei estudar
 :----:|:----:|:----:|:----:
