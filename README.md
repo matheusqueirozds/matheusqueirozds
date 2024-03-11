@@ -1,69 +1,53 @@
 <div align="center">
  
- # Desenvolvedor Web Front-end
- 
-[![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logoColor=#FF7139)](https://matheusqueirozds.dev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusqueirozds)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matheusqueirozds.dev)
- 
+# Matheus Queiroz - Desenvolvedor Web Front-end Junior
+
+[![Portfólio](https://img.shields.io/badge/-Portfólio-%23FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://matheusqueirozds.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusqueirozds)
+
 </div>
 
-<p align="center"> Apoie os meus estudos, adquirindo os produtos da minha loja! <a href="https://montink.com/nobugnogain">Clique aqui</a> para conferir.</p>
+## Sobre Mim
+Atualmente trabalho com JavaScript e PHP, buscando sempre inovar e aplicar as melhores práticas no desenvolvimento de soluções digitais.
 
-<div>
-<h2>💪 Hard Skills</h2>
+## Habilidades Técnicas
 
-<br clear="both">
-<img align="right" height="280px"  src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" title="Matheus Queiroz tentando tirar leite de bug"  />
+- **Front-end:** HTML5, CSS3 (SASS, Flexbox, Grid), JavaScript (ES6+), React
+- **Back-end:** Noções básicas de PHP, integrações simples com back-end
+- **Ferramentas e Práticas:** Git, GitHub, Figma (UX/UI Design básico), SEO
+- **Conceitos:** Design Responsivo, Programação Orientada a Objetos, Consumo de APIs
 
-<div>
- 
-| <h3>UX/UI Designer</h3> | <h3>Frontend</h3> | <h3>Backend</h3> 
----|---|---
-✅ Figma | ✅ HTML e Markdown | 🚫 Jest 
-✅ Cores | ✅ CSS3, SASS e Styled-Components | ✅ nodeJS
-✅ Tipografia | ✅ Layout Responsivo | 🚫 TypeScript
-✅ Usabilidade | ✅ JavaScript | 🚫 MySQL
-✅ Wireframe | ✅ React | 🚫 aws
-✅ Protótipo | ✅ WordPress | ✅ Firebase
-✅ Heurísticas | ✅ WooCommerce 
-  
-LEGENDA | ✅ Dominado! | 🔄 Estudando | 🚫 Ainda irei estudar
-:----:|:----:|:----:|:----:
- 
-</div>
-</div>
+## Projetos Destacados
 
-<br>
- 
-## 📈 Principais projetos criados em 2022
-- [x] 04/23 - 🖼 **Biblioteca Artificiall -** *Aplicação web que exibe prompts para auxiliar na criação de conteúdo. Os prompts são organizados por categorias e podem ser pesquisados através de uma barra de pesquisa.* ([Repositório](https://github.com/matheusqueirozds/biblioteca-artificiall) | [Site](https://biblioteca-artificiall.vercel.app/))
-- [x] 09/22 - 🌮 **Ifuture -** *Projeto desenvolvido em React JS, simulando um aplicativo de delivery, baseado no Ifood.* ([Repositório](https://github.com/matheusqueirozds/ifuture) | [Site](https://ifuture.vercel.app/))
-- [x] 09/22 - 🐣 **Pokédex -** *Projeto desenvolvido em React JS com o consumo de uma API.* ([Repositório](https://github.com/matheusqueirozds/pokedex) | [Site](https://jemison-pokedex8.vercel.app/))
-- [x] 08/22 - 🦁 **Animais Fantásticos -** *Página fictícia sobre animais.* ([Repositório](https://github.com/matheusqueirozds/animais-fantasticos) | [Site](https://animais-fantasticos-sigma.vercel.app/))
-- [x] 07/22 - 🧹 **Vassourax -** *E-commerce baseado no universo de Harry Potter.* ([Repositório](https://github.com/matheusqueirozds/vassourax) | [Site](https://vassourax.vercel.app/))
-- [x] 07/22 - 🛒 **Labecommerce -** *E-commerce de camisetas com estampas divertidas relacionadas ao espaço* ([Repositório](https://github.com/matheusqueirozds/labe-commerce) | [Site](https://general-volcano.surge.sh/))
-- [x] 06/22 - 💰 **F4Bank -** *Landing Page de um banco digital.* ([Repositório](https://github.com/matheusqueirozds/f4bank) | [Site](https://futurebank.vercel.app/))
-- [x] 06/22 - ⛑ **CMLife -** *Página institucional de uma clínica médica.* ([Repositório](https://github.com/matheusqueirozds/clinica-medica) | [Site](https://clinicamedica.vercel.app/)) 
-- [x] 05/22 - 📜 **Portfólio -** *Portfólio criado com HTML, CSS e JavaScript.* ([Repositório](https://github.com/matheusqueirozds/portfolio) | [Site](https://matheusqueirozds.dev))
-- [x] 04/22 - 👨🏽‍💻 **Comandos para usar no Git -** *Guia para devs e divas cansados de pesquisar os comandos no Google.* ([Repositório](https://github.com/matheusqueirozds/comandos-git))
-- [x] 04/22 - ☀ **Bio -** *Página de redirecionamento de links do Instagram.* ([Repositório](https://github.com/matheusqueirozds/bio-instagram) | [Site](https://bio-matheusqueirozds.vercel.app/))
-- [x] 03/22 - 🤖 **Site Responsivo Android -** *Site de conteúdos sobre o Android.* ([Repositório](https://github.com/matheusqueirozds/site-responsivo-android) | [Site](https://site-responsivo-android.vercel.app/))
+### Biblioteca Artificiall
+Aplicação web para criação de conteúdo criativo, utilizando categorias de prompts.
+- [Repositório](https://github.com/matheusqueirozds/biblioteca-artificiall) | [Ver Site](https://biblioteca-artificiall.vercel.app/)
 
-<br>
+### Vassourax
+E-commerce inspirado no universo de Harry Potter.
+- [Repositório](https://github.com/matheusqueirozds/vassourax) | [Ver Site](https://vassourax.vercel.app/)
 
-<h2>📊 Estatísticas</h2>
+### Pokédex
+Projeto desenvolvido em React JS com o consumo de uma API REST (PokeAPI), simulando uma Pokédex.
+- [Repositório](https://github.com/matheusqueirozds/pokedex) | [Ver Site](https://jemison-pokedex8.vercel.app/)
+
+### Labe-commerce
+E-commerce de camisetas com estampas divertidas relacionadas ao espaço.
+- [Repositório](https://github.com/matheusqueirozds/labe-commerce) | [Ver Site](https://general-volcano.surge.sh/)
+
+## Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&username=matheusqueirozds" height="150" alt="stats graph" title="Minhas movimentações no GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-BR&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&username=matheusqueirozds" height="150" alt="languages graph" title="Linguagens que mais uso" />
-</div>
 
-###
-
-![snake gif](https://github.com/matheusqueirozds/matheusqueirozds/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://github-readme-stats.vercel.app/api?username=matheusqueirozds&show_icons=true&theme=react&locale=pt-br" height="150" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusqueirozds&layout=compact&theme=react&locale=pt-BR" height="150" />
 
 </div>
 
-<br>
+
+## Contato
+
+Estou aberto a oportunidades e projetos desafiadores. Vamos nos conectar!
+
+- **[LinkedIn](https://www.linkedin.com/in/matheusqueirozds)**
+- **Email:** contato@matheusqueirozds.dev
+
