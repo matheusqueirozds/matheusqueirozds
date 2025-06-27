@@ -1,6 +1,6 @@
 <div align="center">
  
-# Matheus Queiroz - Desenvolvedor Web Front-end Junior
+# Matheus Queiroz - Desenvolvedor web | Front-end & Web designer
 
 [![Portfólio](https://img.shields.io/badge/-Portfólio-%23FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://matheusqueirozds.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusqueirozds)
